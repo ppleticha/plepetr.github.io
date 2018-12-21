@@ -3,7 +3,7 @@ title: "Econometrics II"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Econometrics2
-venue: "University 1, Department"
+venue: "Charles University, Institute of Economic Studies"
 date: 2018-01-01
 location: "Prague, Czech Republic"
 ---
