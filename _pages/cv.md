@@ -11,41 +11,57 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Economics, Charles University in Prague, 2021 (expected)
+* M.Sc. in Applied Economic Analysis, Stockholm School of Economics, 2017
+* MIM in International Management, CEMS (Stockholm School of Economics & Bocconi University, 2017
+* B.Sc. in Economics and Finance, Charles University in Prague, 2015
+* Exchange Program, Humboldt University in Berlin, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2017 - present: Junior Researcher at CERGE-EI
+  * Research topics: returns to R&D, technology diffusion, global value chains
+  * Supervisor: Martin Srholec
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2017 - June 2017: Master's Thesis Project at Ericsson
+  * Research topic: digitalization and business demographics
+  * Working in tight cooperation Ericsson Research department
+  * Supervisor: Harald Edquist
   
-Skills
+* June 2016 - August 2016: Summer Internship at Roland Berger
+  * Market and peer analysis, client deliveries 
+  * Supervisor: Jaroslav Dvorak
+
+* October 2015 - May 2016: Research Assistant at Center for European Law and Economics in Stockholm 
+  * Inspection of the U.S. data center market and its current trends
+  * Supervisor: Mattias Ganslandt
+  
+* May 2014 - September 2014: Business Analyst at Netmail
+  * Analyzing the Austrian and German market and establishing the first contact with prospective clients
+  * Supervisor: Jaroslav Dvorak
+  
+* July 2012 - August 2013: Internship at Wood & Company
+  * Testing and certifying connections with stock exchanges for direct market access
+  * Supervisor: Vaclav Karpisek
+
+Langueage Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* English (fluent)
+* Czech (fluent)
+* German (working proficiency)
+
+Software Skills
+======
+* R
+* Python
+* LaTex
+* Stata
+* Matlab
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -54,6 +70,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
