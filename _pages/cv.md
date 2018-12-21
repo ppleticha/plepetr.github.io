@@ -12,9 +12,13 @@ redirect_from:
 Education
 ======
 * Ph.D. in Economics, Charles University in Prague, 2021 (expected)
+  * Thesis: Essays on the Impact of Technological Change on Economic Structure
 * M.Sc. in Applied Economic Analysis, Stockholm School of Economics, 2017
+  * Thesis: Entrepreneurship in the Information Age: An Empirical Analysis of the European Regions, graded A, rewarded with a prize for authors under 25 years by the Czech Economic Society
 * MIM in International Management, CEMS (Stockholm School of Economics & Bocconi University, 2017
+  * Business project for ABB: assessing pre-requisites for machine learning in quota-setting processes
 * B.Sc. in Economics and Finance, Charles University in Prague, 2015
+  * Thesis: Global Imbalances Reflected in the Eurozone’s Accounting, graded Excellent
 * Exchange Program, Humboldt University in Berlin, 2014
 
 Work experience
@@ -70,3 +74,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Other Activities
+======
+* Member of the independent expert commission evaluating National Comparative Exams made by Scio
+* Participating in the highest regional tennis league in the Czech Republic
