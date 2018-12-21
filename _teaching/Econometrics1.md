@@ -2,7 +2,7 @@
 title: "Econometrics I"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/Econometrics1
+permalink: /teaching/Econometrics1.md
 venue: "Charles University, Institute of Economic Studies"
 date: 2018-09-04
 location: "Prague, Czech Republic"
