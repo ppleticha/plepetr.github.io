@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Petr Pleticha"
   avatar           : "Portrait.jpg"
-  bio              : "PhD Student in Economics and and Researcher at an academic think-tank, IDEA"
+  bio              : "PhD Student of Economics"
   location         : "Prague"
   employer         : "CERGE-EI"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            : "petr.pleticha@cerge-ei.cz"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  # twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
