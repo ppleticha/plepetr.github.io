@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Econometrics I
 venue: "Charles University, Institute of Economic Studies"
+date: 2018
 location: "Prague, Czech Republic"
 ---
 
