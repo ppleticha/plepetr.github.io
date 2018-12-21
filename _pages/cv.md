@@ -42,7 +42,7 @@ Work experience
   
 * May 2014 - September 2014: Business Analyst at Netmail
   * Analyzing the Austrian and German market and establishing the first contact with prospective clients
-  * Supervisor: Jaroslav Dvorak
+  * Supervisor: Vaclav Graf
   
 * July 2012 - August 2013: Internship at Wood & Company
   * Testing and certifying connections with stock exchanges for direct market access
