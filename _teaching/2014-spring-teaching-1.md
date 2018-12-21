@@ -1,13 +1,19 @@
 ---
-title: "Econometrics 1"
+title: "Econometrics I"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/Econometrics I
 venue: "Charles University, Institute of Economic Studies"
 location: "Prague, Czech Republic"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching assistanship. Revisiting the key concepts from the lectures, using real life examples for thorough understanding, and walking through empirical exercises.
+
+CORE TEXT:
+Jeffrey M. Wooldridge (2012): Introductory Econometrics. A Modern Approach.
+CENGAGE Learning Custom Publishing, 5th Edition
+
+Seminar software: R/R Studio
 
 Syllabus
 ======
