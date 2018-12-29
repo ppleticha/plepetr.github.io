@@ -48,7 +48,7 @@ Work experience
   * Testing and certifying connections with stock exchanges for direct market access
   * Supervisor: Vaclav Karpisek
 
-Langueage Skills
+Language Skills
 ======
 * English (fluent)
 * Czech (fluent)
