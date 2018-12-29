@@ -1,7 +1,7 @@
 ---
 title: 'A'
-date: 2016-12-10
-permalink: /posts/smalltalk
+date: 2017-11-30
+permalink: https://smalltalkeconomics.com
 tags:
 
 ---
