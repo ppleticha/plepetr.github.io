@@ -5,5 +5,4 @@ permalink: https://smalltalkeconomics.com
 tags:
 
 ---
-[Small Talk Economics](https://smalltalkeconomics.com)
-A blog written together with Miroslav Palanský and Michal Šoltés.
+[Small Talk Economics](https://smalltalkeconomics.com) - a blog written together with Miroslav Palanský and Michal Šoltés.
