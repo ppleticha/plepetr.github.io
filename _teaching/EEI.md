@@ -11,7 +11,7 @@ location: "Prague, Czech Republic"
 Teaching assistanship. Supervising student debates with the aim of explaining the covered concepts on relevant, real-world policy issues.
 
 Topics:
-======
+-----
 
 - Blocking minority after Brexit
 - Pan-EU candidate lists in the EP election
