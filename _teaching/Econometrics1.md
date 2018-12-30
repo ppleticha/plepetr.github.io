@@ -17,7 +17,7 @@ CENGAGE Learning Custom Publishing, 5th Edition
 Seminar software: R/R Studio
 
 Syllabus
-======
+------
 
 - Course information
 - Statistics review
