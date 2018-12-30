@@ -15,7 +15,7 @@ CORE TEXT: Jeffrey M. Wooldridge (2012): Introductory Econometrics. A Modern App
 Seminar software: R/R Studio
 
 Syllabus
-======
+------
 
 1. Introductory Lecture: Repetition of basic econometrics and carrying out an empirical project
 
