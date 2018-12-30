@@ -24,8 +24,3 @@ Topics
 - Entrepreneurship
 - Empirical economics
 
-Teaching
-======
-- European Economic Integration (IES FSV UK)
-- Econometrics I (IES FSV UK)
-- Econometrics II (IES FSV UK)
