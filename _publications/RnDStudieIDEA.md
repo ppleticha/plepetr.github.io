@@ -6,7 +6,7 @@ excerpt: '[CZECH ONLY] Studie přináší první hrubé odhady míry návratnost
 date: 2019-11-01
 venue: 'Studie think-tanku IDEA při CERGE-EI'
 paperurl: 'https://idea.cerge-ei.cz/studies/navratnost-soukromych-a-verejnych-vydaju-na-podnikatelsky-vyzkum-a-vyvoj-v-ceske-republice'
-citation: 'Pleticha P. (2019): "The Heterogeneity of Returns to Business R&D: What makes a difference?" IES Working Papers 32/2019. IES FSV. Charles University.'
+citation: 'Pleticha P. (2019): "Návratnost soukromých a veřejných výdajů na podnikatelský výzkum a vývoj v České republice" Národohospodářký ústav AV ČR, vvi.'
 ---
 Abstract
 -------
