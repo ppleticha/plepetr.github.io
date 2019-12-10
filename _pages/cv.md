@@ -23,7 +23,9 @@ Education
 
 Work experience
 ======
-* September 2017 - present: Junior Researcher at CERGE-EI
+* Nobember 2019 - present: Policy Advisor at Chamber of Deputies of the Czech Republic, Czech Pirate Party
+  
+* September 2017 - October 2019: Junior Researcher at CERGE-EI
   * Research topics: returns to R&D, technology diffusion, global value chains
   * Supervisor: Martin Srholec
 
