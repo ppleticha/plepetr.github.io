@@ -42,7 +42,5 @@ ale i jejich vliv na zbytek ekonomiky díky přelévání znalostí. Opomenutí 
 totiž vede ke zkreslenému pohledu na návratnost veřejných VaV výdajů. K přesnějším
 odhadům by také přispěla propojitelnost dat z různých administrativních a statistických
 zdrojů a strukturovaný sběr dat právě za účelem vyhodnocování jednotlivých programů
-na podporu VaV.
-
-[Download paper here](https://idea.cerge-ei.cz/files/IDEA_Studie_11_2019_Navratnost_vydaju_na_vyzkum/IDEA_Studie_11_2019_Navratnost_vydaju_na_vyzkum.html)
+na podporu VaV. [Download paper here](https://idea.cerge-ei.cz/files/IDEA_Studie_11_2019_Navratnost_vydaju_na_vyzkum/IDEA_Studie_11_2019_Navratnost_vydaju_na_vyzkum.html)
 
