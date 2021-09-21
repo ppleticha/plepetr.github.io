@@ -6,7 +6,7 @@ excerpt: 'I estimate R&D returns based on Czech sectoral data with special inqui
 date: 2021-02-10
 venue: 'Prague Economic Papers'
 paperurl: 'https://pep.vse.cz/pdfs/pep/2021/03/01.pdf'
-citation: 'Pleticha, P. (2021). Heterogeneity of Returns to Business R&D: What Makes a Difference? Prague Economic Papers, 30(3), 253-271. doi: 10.18267/j.pep.767'
+citation: 'Pleticha, P. (2021). Heterogeneity of Returns to Business R&D: What Makes a Difference? Prague Economic Papers, 30(3), 253-271.'
 ---
 Abstract
 -------
