@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-A PhD student at Institute of Economic Studies at Charles University and a junior researcher at CERGE-EI, a joint workplace of Charles University and the Economics Institute of the Academy of Sciences of the Czech Republic. 
+A PhD student at Institute of Economic Studies at Charles University and a policy advisor and team coordinator at the Chamber of Deputies of the Parliament of the Czech Republic for the Pirate Party. 
 
-Being a vocal proponent of informed decision-making, I am curious about ways of conveying statistical inference to other researchers and also to general public. Standard applied econometrics, machine learning, big data analysis, and data visualizations are all areas of my interest.
+Being a vocal proponent of informed decision-making, I am curious about ways of conveying statistical inference to other researchers, policy-makers, and also to general public. Standard applied econometrics, machine learning, big data analysis, and data visualizations are all areas of my interest.
 
 Research
 ======
